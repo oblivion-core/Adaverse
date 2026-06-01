@@ -8,10 +8,13 @@ A dark-themed academic library platform built as a frontend web project by stude
 
 ## 📸 Screenshots
 
-| Homepage | Course Library |
-|---|---|
-| ![Homepage](https://ljnina.vercel.app/pexels-marco-171529911-12916351.jpg) | ![Library](https://ljnina.vercel.app/pexels-tima-miroshnichenko-9572540.jpg) |
+## 📸 Screenshots
 
+| Homepage | Features |
+|---|---|
+| ![Home](https://raw.githubusercontent.com/oblivion-core/Adaverse/main/assets/images/Screenshot%20(1000).png) | ![Features](https://raw.githubusercontent.com/oblivion-core/Adaverse/main/assets/images/Screenshot%20(1002).png) |
+
+![Library](https://raw.githubusercontent.com/oblivion-core/Adaverse/main/assets/images/Screenshot%20(1003).png)
 ---
 
 ## ✨ Features
