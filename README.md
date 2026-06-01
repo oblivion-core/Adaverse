@@ -10,9 +10,7 @@ A dark-themed academic library platform built as a frontend web project by stude
 
 | Homepage | Course Library |
 |---|---|
-| ![Homepage](assets/images/home.png) | ![Library](assets/images/bib.png) |
-
-> *Add your screenshots to `assets/images/` and update the paths above.*
+| ![Homepage](https://ljnina.vercel.app/pexels-marco-171529911-12916351.jpg) | ![Library](https://ljnina.vercel.app/pexels-tima-miroshnichenko-9572540.jpg) |
 
 ---
 
