@@ -5,9 +5,6 @@
 A dark-themed academic library platform built as a frontend web project by students at **Université Akli Mohand Oulhadj – Bouira**. ADAVERSE offers a structured interface for browsing courses, exercises, and academic resources organized by subject.
 
 ---
-
-## 📸 Screenshots
-
 ## 📸 Screenshots
 
 | Homepage | Features |
